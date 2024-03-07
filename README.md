@@ -1,2 +1,2 @@
 # imgs
-repo for images so they can be linked to
+repo for image hosting
